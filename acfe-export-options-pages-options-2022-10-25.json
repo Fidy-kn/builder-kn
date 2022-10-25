@@ -1,0 +1,16 @@
+{
+    "options": {
+        "page_title": "Options",
+        "menu_slug": "options",
+        "menu_title": "Options",
+        "capability": "edit_posts",
+        "position": "5",
+        "parent_slug": "",
+        "icon_url": "",
+        "redirect": true,
+        "post_id": "options",
+        "autoload": false,
+        "update_button": "Mettre à jour les options",
+        "updated_message": "Options à jour"
+    }
+}
